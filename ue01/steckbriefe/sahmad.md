@@ -14,4 +14,8 @@ wenig Erfahrung.
 
 ## Das erwarte ich von der Veranstaltung
 
-…
+Ich möchte in dieser Veranstaltung lernen, wie Softwareprojekte
+professionell geplant, entwickelt und umgesetzt werden.
+Besonders interessiert mich die Zusammenarbeit im Team
+sowie der praktische Umgang mit Git und GitHub.
+Außerdem möchte ich meine Programmierkenntnisse erweitern.
