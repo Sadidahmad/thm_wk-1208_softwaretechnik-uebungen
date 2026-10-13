@@ -1,8 +1,8 @@
-# Steckbrief <sahmad>
+# Steckbrief sahmad
 
 ## Studiengang und Semester
 
-Ich studiere Wirtschaftsinformatik (B.Sc.) an der THM am Campus Friedbger und befinde mich aktuell im 3. Semester.
+Ich studiere Wirtschaftsinformatik (B.Sc.) an der THM am Campus Friedberg und befinde mich aktuell im 3. Semester.
 
 ## Meine bisherige Erfahrung mit Softwareentwicklung
 
